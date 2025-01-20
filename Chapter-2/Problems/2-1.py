@@ -44,6 +44,7 @@ def sort(array, l):
     return array
 
 array = [64,73,85,72,7,3,6,3]
-l = len(array)/7
+l = 7
 array = sort(array, l)
 print(array)
+ 
